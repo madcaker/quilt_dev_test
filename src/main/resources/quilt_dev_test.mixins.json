@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "dev.madcaker.quilt_dev_test.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [],
+	"client": [
+      "TitleScreenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
